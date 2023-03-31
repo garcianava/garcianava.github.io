@@ -19,6 +19,23 @@ by Springer-Nature's The Journal of Supercomputing.
 
 [View code on GitHub](https://github.com/garcianava/tpu-transformer-tsf)
 ---
+
+### Deep Learning Architectures for Time Series Forecasting on TPUs
+I implemented a deep multi-sequence stacked LSTM
+and an encoder-decoder with attention architectures
+for Time Series Forecasting on Google Cloud TPU accelerators.
+I achieved training time reductions from several hours to under 30 seconds wall-time.
+<!-- [###Transformer for Global, Multi-horizon Time Series Forecasting on TPUs](/sample_page) -->
+<img src="images/multi_horizon_tsf_color.jpg?raw=true"/>
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#)
+[![](https://img.shields.io/badge/TensorFlow-white?logo=TensorFlow)](#)
+[![](https://img.shields.io/badge/TPUEstimator-white?logo=TensorFlow)](#)
+[![](https://img.shields.io/badge/GoogleCloud-white?logo=GoogleCloud)](#)
+[![](https://img.shields.io/badge/CloudTPU-white?logo=GoogleCloud)](#)
+
+[View code on GitHub](https://github.com/garcianava/deep-forecasters)
+---
+
 <!-- - [Project 2 Title](/pdf/sample_presentation.pdf) -->
 <!-- - <img src="images/dummy_thumbnail.jpg?raw=true"/> -->
 

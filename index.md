@@ -5,7 +5,7 @@
 ### Machine Learning
 
 [Transformer for Global, Multi-horizon Time Series Forecasting on TPUs](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/multi_horizon_tsf_color.jpg?raw=true"/>
 
 ---
 <!-- - [Project 2 Title](/pdf/sample_presentation.pdf) -->

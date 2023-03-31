@@ -23,7 +23,7 @@ by Springer-Nature's The Journal of Supercomputing.
 ### Deep Learning Architectures for Electric Power Forecasting on Google Cloud Tensor Processing Units
 I implemented a deep multi-sequence stacked LSTM
 and an encoder-decoder with attention architectures
-for electric load shor-term forecasting on Google Cloud TPU accelerators.
+for electric load short-term forecasting on Google Cloud TPU accelerators.
 The models achieved outstanding predictive performance
 and training time reductions from several hours to under 30 seconds wall-time.
 <!-- [###Transformer for Global, Multi-horizon Time Series Forecasting on TPUs](/sample_page) -->

@@ -12,9 +12,10 @@ by Springer-Nature's The Journal of Supercomputing.
 <!-- [###Transformer for Global, Multi-horizon Time Series Forecasting on TPUs](/sample_page) -->
 <img src="images/multi_horizon_tsf_color.jpg?raw=true"/>
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#)
-[![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#)
 [![](https://img.shields.io/badge/TensorFlow-white?logo=TensorFlow)](#)
+[![](https://img.shields.io/badge/TPUEstimator-white?logo=TensorFlow)](#)
 [![](https://img.shields.io/badge/GoogleCloud-white?logo=GoogleCloud)](#)
+[![](https://img.shields.io/badge/CloudTPU-white?logo=GoogleCloud)](#)
 
 [View code on GitHub](https://github.com/garcianava/tpu-transformer-tsf)
 ---

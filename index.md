@@ -20,7 +20,7 @@ by Springer-Nature's The Journal of Supercomputing.
 [View code on GitHub](https://github.com/garcianava/tpu-transformer-tsf)
 ---
 
-### Deep Learning Architectures for Electric Power Forecasting on TPUs
+### Deep Learning Architectures for Electric Power Forecasting on Google Cloud Tensor Processing Units
 I implemented a deep multi-sequence stacked LSTM
 and an encoder-decoder with attention architectures
 for electric load shor-term forecasting on Google Cloud TPU accelerators.

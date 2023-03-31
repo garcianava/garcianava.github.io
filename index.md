@@ -1,10 +1,10 @@
-## Portfolio
+## Selected Projects in Machine Learning Engineering and Data Science
 
 ---
 
-### Machine Learning
+### Transformer for Global, Multi-horizon Time Series Forecasting on TPUs
 
-[Transformer for Global, Multi-horizon Time Series Forecasting on TPUs](/sample_page)
+<!-- [###Transformer for Global, Multi-horizon Time Series Forecasting on TPUs](/sample_page) -->
 <img src="images/multi_horizon_tsf_color.jpg?raw=true"/>
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/TensorFlow-white?logo=tensorflow)](#)
 

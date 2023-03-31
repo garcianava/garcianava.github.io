@@ -3,7 +3,12 @@
 ---
 
 ### Transformer for Global, Multi-horizon Time Series Forecasting on TPUs
-
+I implemented a Vanilla Transformer for Time Series Forecasting on Google Cloud TPU accelerators.
+I trained this architecture on two standard datasets for global, multi-horizon forecasting (_electricity_ and _traffic_)
+and achieved training time reductions from several hours to under two minutes.
+This research achievement was published as
+[_García-Nava et al._, 2022](https://rdcu.be/c1Vix)
+by Springer-Nature's The Journal of Supercomputing.
 <!-- [###Transformer for Global, Multi-horizon Time Series Forecasting on TPUs](/sample_page) -->
 <img src="images/multi_horizon_tsf_color.jpg?raw=true"/>
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#)

@@ -39,6 +39,23 @@ and training time reductions from several hours to under 30 seconds wall-time.
 
 ---
 
+### ML Pipeline for Large Scale Power Quality Forecasting with Apache Spark and SciKit-Learn
+I designed a machine learning pipeline
+for large scale power quality short-term forecasting in Central-West CFE
+(state-owned Mexican grid operator) distribution network.
+This pipeline executes more than 4,000 forecasting models
+on a weekly basis since 2019.
+<!-- [###Transformer for Global, Multi-horizon Time Series Forecasting on TPUs](/sample_page) -->
+<img src="images/pipeline.jpg?raw=true"/>
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#)
+[![](https://img.shields.io/badge/Apache_Spark-white?logo=apachespark)](#)
+[![](https://img.shields.io/badge/Scikit_Learn-white?logo=ScikitLearn)](#)
+[![](https://img.shields.io/badge/MySQL-white?logo=mysql)](#)
+
+[View paper on Applied Sciences](https://www.mdpi.com/2076-3417/12/17/8423)
+
+---
+
 <!-- - [Project 2 Title](/pdf/sample_presentation.pdf) -->
 <!-- - <img src="images/dummy_thumbnail.jpg?raw=true"/> -->
 

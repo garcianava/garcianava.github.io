@@ -52,7 +52,7 @@ on a weekly basis since 2019.
 [![](https://img.shields.io/badge/Scikit_Learn-white?logo=ScikitLearn)](#)
 [![](https://img.shields.io/badge/MySQL-white?logo=mysql)](#)
 
-[View paper on Applied Sciences](https://www.mdpi.com/2076-3417/12/17/8423)
+[View research paper on Applied Sciences](https://www.mdpi.com/2076-3417/12/17/8423)
 
 ---
 

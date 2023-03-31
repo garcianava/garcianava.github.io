@@ -6,7 +6,9 @@
 
 [Transformer for Global, Multi-horizon Time Series Forecasting on TPUs](/sample_page)
 <img src="images/multi_horizon_tsf_color.jpg?raw=true"/>
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/TensorFlow-white?logo=tensorflow)](#)
 
+[View code on GitHub](https://github.com/garcianava/tpu-transformer-tsf)
 ---
 <!-- - [Project 2 Title](/pdf/sample_presentation.pdf) -->
 <!-- - <img src="images/dummy_thumbnail.jpg?raw=true"/> -->

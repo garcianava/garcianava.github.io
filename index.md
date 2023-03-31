@@ -19,6 +19,7 @@ by Springer-Nature's The Journal of Supercomputing.
 
 [View code on GitHub](https://github.com/garcianava/tpu-transformer-tsf)
 ---
+<br><br>
 
 ### Deep Learning Architectures for Electric Power Forecasting on Google Cloud Tensor Processing Units
 I implemented a deep multi-sequence stacked LSTM
@@ -36,6 +37,7 @@ and training time reductions from several hours to under 30 seconds wall-time.
 
 [View code on GitHub](https://github.com/garcianava/deep-forecasters)
 ---
+<br><br>
 
 <!-- - [Project 2 Title](/pdf/sample_presentation.pdf) -->
 <!-- - <img src="images/dummy_thumbnail.jpg?raw=true"/> -->

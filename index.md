@@ -10,7 +10,7 @@ This research achievement was published as
 [_García-Nava et al._, 2022](https://rdcu.be/c1Vix)
 by Springer-Nature's The Journal of Supercomputing.
 <!-- [###Transformer for Global, Multi-horizon Time Series Forecasting on TPUs](/sample_page) -->
-<img src="images/multi_horizon_tsf_color.jpg?raw=true"/>
+<img src="images/transformer_architecture_color.jpg?raw=true"/>
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#)
 [![](https://img.shields.io/badge/TensorFlow-white?logo=TensorFlow)](#)
 [![](https://img.shields.io/badge/TPUEstimator-white?logo=TensorFlow)](#)

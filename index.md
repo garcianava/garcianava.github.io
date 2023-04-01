@@ -49,7 +49,7 @@ for further walk-ability analysis.
 [![](https://img.shields.io/badge/Android_Studio-white?logo=AndroidStudio)](#)
 [![](https://img.shields.io/badge/Kotlin-white?logo=Kotlin)](#)
 [![](https://img.shields.io/badge/Firebase-white?logo=Firebase)](#)
-[![](https://img.shields.io/badge/BigQuery-white?logo=BigQuery)](#)
+[![](https://img.shields.io/badge/BigQuery-white?logo=GoogleCloud)](#)
 
 [View code on GitHub](https://github.com/garcianava/my-location-tracker)
 

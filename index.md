@@ -45,7 +45,7 @@ walking routes in public spaces of Morelia city.
 Walking routes and points of interest are persisted in Firebase
 for further walk-ability analysis.
 <!-- [###Transformer for Global, Multi-horizon Time Series Forecasting on TPUs](/sample_page) -->
-<img src="images/tpu_computing_pattern.jpg?raw=true"/>
+<img src="images/my-location-tracker.jpg?raw=true"/>
 [![](https://img.shields.io/badge/Android_Studio-white?logo=AndroidStudio)](#)
 [![](https://img.shields.io/badge/Kotlin-white?logo=Kotlin)](#)
 [![](https://img.shields.io/badge/Firebase-white?logo=Firebase)](#)

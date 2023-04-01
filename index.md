@@ -18,6 +18,7 @@ by Springer-Nature's The Journal of Supercomputing.
 [![](https://img.shields.io/badge/CloudTPU-white?logo=GoogleCloud)](#)
 
 [View code on GitHub](https://github.com/garcianava/tpu-transformer-tsf)
+[View research paper on The Journal of Supercomputing](https://rdcu.be/c1Vix)
 
 ---
 
